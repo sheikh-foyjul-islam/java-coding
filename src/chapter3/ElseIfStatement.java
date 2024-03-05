@@ -6,7 +6,7 @@ import java.util.Scanner;
 Display a letter grade for a student based on their test score
  */
 public class ElseIfStatement {
-    public void main(String[] args)
+    public static void main(String[] args)
     {
 //Get the test result
         System.out.println("Enter your test score");
